@@ -1,4 +1,0 @@
-1-ltc
-2-eth
-3-btc
-4-bth
